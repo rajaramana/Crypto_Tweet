@@ -11,10 +11,10 @@ if(!require('lubridate')){install.packages('lubridate'); library('lubridate')}el
 appname <- "crypto_tweet_news"
 
 # Api key (example below is not a real key)
-key <- "10VZ7hhTtIVoR7fN7rslvlTjW"
+key <- "10VZ7hhTtIVoR7fN7rslvlFUR"
 
 # Api secret (example below is not a real key)
-secret <- "BZeEAmma4DmasEoE7nXcHAddzQkU7ZEylEnxlSNPr6OAqeru0j"
+secret <- "BZeEAmma4DmasEoE7nXcHAddzQkU7ZEylEnxlSNPr6OAnarum"
 
 # Run only for the first time
 # twitter_token <- create_token(
